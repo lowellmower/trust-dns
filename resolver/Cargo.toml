@@ -45,7 +45,7 @@ name = "trust_dns_resolver"
 path = "src/lib.rs"
 
 [dependencies]
-error-chain = "0.1.12"
+error-chain = "0.8.1"
 futures = "^0.1.17"
 lazy_static = "^1.0"
 log = "^0.4.1"
